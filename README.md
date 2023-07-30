@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIKAS KARDAM</h1>
-<h3 align="center">👨‍💻 Data Scientist Jon | 📊 Machine Learning Enthusiast | 📈 Data Analysis Geek</h3>
+<h3 align="center">👨‍💻 Data Scientist | 📊 Machine Learning Enthusiast | 📈 Data Analysis Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meivikas&label=Profile%20views&color=0e75b6&style=flat" alt="meivikas" /> </p>
 
