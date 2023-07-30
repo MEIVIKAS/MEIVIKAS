@@ -1,3 +1,5 @@
+![image](https://github.com/MEIVIKAS/MEIVIKAS/assets/105585314/04eca573-f898-43dc-9497-15b12a822ed1)
+
 <h1 align="center">Hi 👋, I'm VIKAS KARDAM</h1>
 <h3 align="center">👨‍💻 Data Scientist | 📊 Machine Learning Enthusiast | 📈 Data Analysis Geek</h3>
 
